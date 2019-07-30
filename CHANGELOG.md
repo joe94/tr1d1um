@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [v1.1.0]
+This release includes the best features ever created in webpa
+
+
+
 ## [v0.1.2]
 Switching to new build process
 
