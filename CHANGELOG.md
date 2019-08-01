@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [v1.0.0]
+- This is the [link](https://github.com/joe94/tr1d1um) to our repo
+
+
+
 ## [v0.2.1]
 - updated urls and imports
 - fixed bug 003
@@ -32,7 +37,8 @@ Switching to new build process
 ### Added
 - Initial creation
 
-[Unreleased]: https://github.com/xmidt-org/tr1d1um/compare/v0.2.1...HEAD
+[Unreleased]: https://github.com/xmidt-org/tr1d1um/compare/v1.0.0...HEAD
+[v1.0.0]: https://github.com/xmidt-org/tr1d1um/compare/v0.2.1...v1.0.0
 [v0.2.1]: https://github.com/xmidt-org/tr1d1um/compare/v0.2.0...v0.2.1
 [v0.2.0]: https://github.com/xmidt-org/tr1d1um/compare/v0.1.5...v0.2.0
 [v0.1.5]: https://github.com/xmidt-org/tr1d1um/compare/v0.1.4...v0.1.5
